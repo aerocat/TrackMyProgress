@@ -1,0 +1,30 @@
+#title {
+	padding: 30px 0 60px 0;
+}
+
+.container.container-rounded {
+	border-radius: 7px; 
+	border: 2px solid #cecece;
+	margin-bottom: 45px;
+}
+
+#x {
+	border-radius: 3px; 
+	border-right: 2px solid #cecece;
+	padding: 30px 0 30px 0;
+	background-color: #63C7FD;
+
+}
+#x:hover {
+	background-color: #3D7EA1;
+}
+
+#y {
+	border-radius: 3px;
+	padding: 30px 0 30px 0;
+	background-color: #63C7FD;
+
+}
+#y:hover {
+	background-color: #3D7EA1;
+}
